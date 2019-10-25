@@ -11,7 +11,7 @@ public class Problem1 {
 	
 	public static void main(String[] args) {		
 		
-		System.out.println(Problem1());
+		System.out.println(problem1());
 		
 	}
 	
@@ -22,7 +22,7 @@ public class Problem1 {
 	
 	
 	
-	private static int Problem1() {
+	private static int problem1() {
 		
 		int total = 0; 
 
