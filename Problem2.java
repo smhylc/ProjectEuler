@@ -3,7 +3,7 @@ public class Problem2 {
 
 	/**
 	 * @author Semih YOLCU
-	 * @since 2019-10-29
+	 * @create-date 2019-10-29
 	 */
 
 	/*
