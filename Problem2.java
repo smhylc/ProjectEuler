@@ -35,7 +35,7 @@ public class Problem2 {
 			}
 		}
 
-		System.out.println(total2);
+		System.out.print(total2);
 
 	}
 
