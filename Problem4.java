@@ -1,4 +1,4 @@
-public final class Problem4 implements {
+public final class Problem4  {
 	
 	public static void main(String[] args) {
 		System.out.println(new p004().run());
