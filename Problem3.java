@@ -2,7 +2,7 @@ public final class Problem3 {
 
 	/**
 	 * @author Semih YOLCU
-	 * @create-date 2012-06-02
+	 * @create-date 2022-06-02
 	 */
 
 	
