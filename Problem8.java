@@ -5,6 +5,11 @@ public final class Problem8{
 	}
 	
 	
+	/**
+	 * @author Semih YOLCU
+	 * @create-date 2022-06-05
+	 */
+	
 	private static final int pe = 1000;
 	
 	public String calculate() {
